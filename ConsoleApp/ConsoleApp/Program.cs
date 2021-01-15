@@ -13,7 +13,7 @@ namespace ConsoleApp
         /// <param name="args">Os argumentos.</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo de uso!");
+            Console.WriteLine("Exemplo de uso 2!");
             Console.ReadKey();
         }
     }
